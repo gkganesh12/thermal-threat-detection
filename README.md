@@ -130,7 +130,7 @@ Contributions are welcome! Please read our [Contributing Guidelines](CONTRIBUTIN
 
 ## Authors
 
-- Your Name (@yourusername)
+- Ganesh Khetawat(GK)
 
 ## Acknowledgments
 
