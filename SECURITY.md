@@ -14,7 +14,7 @@ Use this section to tell people about which versions of your project are current
 We take the security of Thermal Threat Detection System seriously. If you believe you have found a security vulnerability, please follow these steps:
 
 1. **Do NOT disclose the vulnerability publicly**
-2. Send a detailed description of the vulnerability to [your-security-email@domain.com]
+2. Send a detailed description of the vulnerability to gkganesh448@gmail.com
 3. Include steps to reproduce the issue if possible
 4. We will acknowledge receipt of your report within 48 hours
 5. We will provide an estimated timeline for a fix
