@@ -1,0 +1,41 @@
+{
+    "email": {
+        "smtp_server": "smtp.gmail.com",
+        "smtp_port": 587,
+        "use_tls": true,
+        "sender_email": "your-email@gmail.com",
+        "sender_password": "your-app-specific-password",
+        "default_recipients": [
+            "security@domain.com",
+            "operations@domain.com"
+        ]
+    },
+    "slack": {
+        "webhook_url": "https://hooks.slack.com/services/YOUR/WEBHOOK/URL",
+        "default_channel": "#security-alerts"
+    },
+    "telegram": {
+        "bot_token": "your-bot-token",
+        "chat_ids": [
+            "-1001234567890"
+        ]
+    },
+    "alert_levels": {
+        "LOW": {
+            "color": "green",
+            "icon": "ℹ️"
+        },
+        "MEDIUM": {
+            "color": "yellow",
+            "icon": "⚠️"
+        },
+        "HIGH": {
+            "color": "red",
+            "icon": "🚨"
+        },
+        "CRITICAL": {
+            "color": "purple",
+            "icon": "⛔"
+        }
+    }
+}

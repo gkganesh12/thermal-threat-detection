@@ -1,0 +1,16 @@
+Timestamp,Location,Predicted Class,Confidence,Threat Level,Image Path
+2025-02-23 11:43:58,class_2,0,35.63%,Low,example_dataset/val/class_2/img_1.jpg
+2025-02-23 11:43:58,class_2,0,35.38%,Low,example_dataset/val/class_2/img_0.jpg
+2025-02-23 11:43:58,class_2,0,35.29%,Low,example_dataset/val/class_2/img_2.jpg
+2025-02-23 11:43:58,class_2,0,35.42%,Low,example_dataset/val/class_2/img_3.jpg
+2025-02-23 11:43:58,class_2,0,35.43%,Low,example_dataset/val/class_2/img_4.jpg
+2025-02-23 11:43:58,class_0,0,35.83%,Low,example_dataset/val/class_0/img_1.jpg
+2025-02-23 11:43:58,class_0,0,35.57%,Low,example_dataset/val/class_0/img_0.jpg
+2025-02-23 11:43:58,class_0,0,35.57%,Low,example_dataset/val/class_0/img_2.jpg
+2025-02-23 11:43:58,class_0,0,35.68%,Low,example_dataset/val/class_0/img_3.jpg
+2025-02-23 11:43:58,class_0,0,35.54%,Low,example_dataset/val/class_0/img_4.jpg
+2025-02-23 11:43:58,class_1,0,35.36%,Low,example_dataset/val/class_1/img_1.jpg
+2025-02-23 11:43:58,class_1,0,35.73%,Low,example_dataset/val/class_1/img_0.jpg
+2025-02-23 11:43:58,class_1,0,35.62%,Low,example_dataset/val/class_1/img_2.jpg
+2025-02-23 11:43:58,class_1,0,35.64%,Low,example_dataset/val/class_1/img_3.jpg
+2025-02-23 11:43:58,class_1,0,35.75%,Low,example_dataset/val/class_1/img_4.jpg

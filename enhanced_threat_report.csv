@@ -1,0 +1,16 @@
+timestamp,location,thermal_class,thermal_confidence,context_description,text_class,text_confidence,final_threat_level
+2025-02-23 11:53:17,class_2,0,35.63%,Thermal signature detected at class_2 at 11:53. Low heat pattern observed.,2,37.58%,LOW
+2025-02-23 11:53:17,class_2,0,35.38%,Thermal signature detected at class_2 at 11:53. Low heat pattern observed.,2,37.58%,LOW
+2025-02-23 11:53:17,class_2,0,35.29%,Thermal signature detected at class_2 at 11:53. Low heat pattern observed.,2,37.58%,LOW
+2025-02-23 11:53:17,class_2,0,35.42%,Thermal signature detected at class_2 at 11:53. Low heat pattern observed.,2,37.58%,LOW
+2025-02-23 11:53:17,class_2,0,35.43%,Thermal signature detected at class_2 at 11:53. Low heat pattern observed.,2,37.58%,LOW
+2025-02-23 11:53:17,class_0,0,35.83%,Thermal signature detected at class_0 at 11:53. Low heat pattern observed.,2,38.22%,LOW
+2025-02-23 11:53:18,class_0,0,35.57%,Thermal signature detected at class_0 at 11:53. Low heat pattern observed.,2,38.22%,LOW
+2025-02-23 11:53:18,class_0,0,35.57%,Thermal signature detected at class_0 at 11:53. Low heat pattern observed.,2,38.22%,LOW
+2025-02-23 11:53:18,class_0,0,35.68%,Thermal signature detected at class_0 at 11:53. Low heat pattern observed.,2,38.22%,LOW
+2025-02-23 11:53:18,class_0,0,35.54%,Thermal signature detected at class_0 at 11:53. Low heat pattern observed.,2,38.22%,LOW
+2025-02-23 11:53:18,class_1,0,35.36%,Thermal signature detected at class_1 at 11:53. Low heat pattern observed.,2,37.90%,LOW
+2025-02-23 11:53:18,class_1,0,35.73%,Thermal signature detected at class_1 at 11:53. Low heat pattern observed.,2,37.90%,LOW
+2025-02-23 11:53:18,class_1,0,35.62%,Thermal signature detected at class_1 at 11:53. Low heat pattern observed.,2,37.90%,LOW
+2025-02-23 11:53:18,class_1,0,35.64%,Thermal signature detected at class_1 at 11:53. Low heat pattern observed.,2,37.90%,LOW
+2025-02-23 11:53:18,class_1,0,35.75%,Thermal signature detected at class_1 at 11:53. Low heat pattern observed.,2,37.90%,LOW

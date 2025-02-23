@@ -1,0 +1,19 @@
+version: '3.8'
+
+services:
+  api:
+    build: .
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./uploaded_images:/app/uploaded_images
+    environment:
+      - ENVIRONMENT=production
+      - MAX_WORKERS=4
+      - ALLOWED_ORIGINS=http://localhost:3000,http://localhost:8000
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
