@@ -46,3 +46,12 @@ example_dataset/
 # OS specific
 .DS_Store
 Thumbs.db
+
+# Large files
+*.dmg
+*.iso
+*.tar
+*.gz
+*.zip
+*.rar
+*.7z
